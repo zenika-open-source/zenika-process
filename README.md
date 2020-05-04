@@ -4,6 +4,8 @@ La transparence et l'open source sont des valeurs fondatrices de Zenika. Nous av
 
 ## Plan de reprise d'activité (COVID-19)
 
-[Insérer description]
+Ce plan de reprise d’activité décrit les mesures prises par Zenika pour prévenir et lutter contre l’épidémie Covid-19, pour ses collaborateurs, ses clients et ses partenaires. 
+Soucieux de la santé de ses collaborateurs et de son écosystème, le Groupe Zenika suit la situation au jour le jour, et applique strictement toutes les mesures décidées et préconisées par les structures officielles et compétentes.
+Nous avons décidé de donner accès à notre Plan de Reprise d'Activité pour partager les mesures que nous prenons et pour permettre à d'autres compagnies de s'en inspirer, si elles le souhaitent.
 
-[Insérer lien]
+[Plan de Reprise d'activité Zenika - 4 mai 2020](https://drive.google.com/file/d/1ZinMVIWbo4i7_2LNIZd40Mxh5A5LiFc-/view?usp=sharing)
