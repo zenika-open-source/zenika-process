@@ -9,3 +9,5 @@ Soucieux de la santé de ses collaborateurs et de son écosystème, le Groupe Ze
 Nous avons décidé de donner accès à notre Plan de Reprise d'Activité pour partager les mesures que nous prenons et pour permettre à d'autres compagnies de s'en inspirer, si elles le souhaitent.
 
 [Plan de Reprise d'Activité Zenika - Mesures Covid-19](https://drive.google.com/file/d/1ZinMVIWbo4i7_2LNIZd40Mxh5A5LiFc-/view?usp=sharing)
+
+![with love by zenika](https://img.shields.io/badge/With%20%E2%9D%A4%EF%B8%8F%20by-Zenika-b51432.svg?link=https://oss.zenika.com)
